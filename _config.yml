@@ -1,6 +1,6 @@
 name: diaphainon
 favicon: null
-layout_spectrum: 0.33612609561532736
+layout_spectrum: 1
 typography_spectrum: 0.29828814789652824
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.05939436820335686
+  brandStrength: 0.1875
   lightness: 0.8334111906588078
-  saturation: 0.3002017638646066
-  rhythmicContrast: 0.8608095471281558
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
