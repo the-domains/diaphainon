@@ -10,15 +10,15 @@ description: >-
   out) Christianity in particular. I was trying to point out that they were
   simply ranting about things they knew nothing about, which didn't stop them,
   but it did get me thinking.
-datePublished: '2016-06-21T08:42:59.481Z'
-dateModified: '2016-06-21T08:42:20.592Z'
+datePublished: '2016-06-21T08:56:02.541Z'
+dateModified: '2016-06-21T08:43:06.679Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-21-recently-i-had-a-bit-of-a-discussion-with-a-couple-of-folks.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-21-recently-i-had-a-bit-of-a-discussion-with-a-couple-of-folks.md
 url: recently-i-had-a-bit-of-a-discussion-with-a-couple-of-folks/index.html
 _type: Article
 
